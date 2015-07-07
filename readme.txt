@@ -1,5 +1,6 @@
 Adaptación del tema Pinbin de Color Awesomeness por José Fernández para la creación de colecciones personales
 Instrucciones: http://www.jose-fernandez.com.es/laboratorio/serendipia-gestionar-colecciones-con-wordpress/
+Demo: http://www.jose-fernandez.com.es/medialab/demo-serendipia/
 
 
 Pinbin WordPress theme is a fully responsive theme that looks great on any devices including iPad, iPhone or any other mobile device. This theme is inspired by Pinterest grid system that puts images first. Pinbin is a perfect fit for photographers, web designers and anyone who likes to show off their photos, mockups, infographics and any other images.  Some other great features are sticky (fixed) navigation, responsive layout, simplicity and minimalism. 
